@@ -1,6 +1,5 @@
 # AracKiralamaProjesi-SimpleRenatAcarProject
 Simple Rent a Car Project / Araç Kiralama Otomasyonu
-![ana sayfa 2](https://user-images.githubusercontent.com/95282503/178123932-14a7835f-1aff-48d7-8684-65d5bd32f6af.jpg)
 ![araç işlemleri](https://user-images.githubusercontent.com/95282503/178123933-29225414-9577-4ecb-ad74-bbcd814785e1.png)
 ![giriş](https://user-images.githubusercontent.com/95282503/178123935-36a550c8-9346-4b41-8f16-04b350bf6992.png)
 ![Kişisel bilgi](https://user-images.githubusercontent.com/95282503/178123939-d65b3ca1-72be-4113-80a0-1cb39b334f73.png)
